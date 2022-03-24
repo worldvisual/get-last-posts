@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: Retorna Últimos Posts
- * Plugin URI: http://liga.facens.br/
- * Description: Retorna Últimos Posts - Liga.
- * Version: 1.1.5
- * Author: Liga
- * Author URI: http://liga.facens.br/
+ * Plugin URI: https://github.com/worldvisual/get-last-posts
+ * Description: WordPress plugin to return the latest posts from another WP blog.
+ * Version: 1.0.0
+ * Author: Samuel Almeida
+ * Author URI: https://github.com/worldvisual
  */
 
  /* 
