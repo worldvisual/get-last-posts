@@ -1,0 +1,21 @@
+.get_last_posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.get_last_title h2 {
+  font-weight: 700;
+  font-size: 16px;
+  color: #004479 !important;
+  line-height: 1.3em;
+}
+
+.get_last_image {
+  max-width: 300px;
+  padding: 20px;
+}
+
+.get_last_title {
+  text-align: center;
+}
