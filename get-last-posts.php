@@ -9,9 +9,9 @@
  * Author URI: https://github.com/worldvisual
  */
 
- /* 
-	 SHORTCODE EXAMPLE 
-	 [get_last_posts quantity="3" url="https://example.com"]
+/**
+ * Shortcode example
+ * [get_last_posts quantity="3" url="https://example.com"]
  */
 
 function get_post_styles()
